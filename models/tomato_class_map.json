@@ -1,0 +1,14 @@
+{
+  "Tomato Bacterial spot": 0,
+  "Tomato Early blight": 1,
+  "Tomato Late blight": 2,
+  "Tomato Leaf Mold": 3,
+  "Tomato Septoria leaf spot": 4,
+  "Tomato Spider mites Two spotted spider mite": 5,
+  "Tomato Target Spot": 6,
+  "Tomato mosaic virus": 7,
+  "Tomato healthy": 8,
+  "Tomato septoria_leaf_spot": 9,
+  "Tomato yellow_leaf_curl_virus": 10,
+  "tomato canker": 11
+}

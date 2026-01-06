@@ -1,0 +1,11 @@
+{
+  "Soybean bacterial_blight": 0,
+  "Soybean caterpillar": 1,
+  "Soybean diabrotica_speciosa": 2,
+  "Soybean downy_mildew": 3,
+  "Soybean healthy": 4,
+  "Soybean mosaic_virus": 5,
+  "Soybean powdery_mildew": 6,
+  "Soybean rust": 7,
+  "Soybean southern_blight": 8
+}

@@ -1,0 +1,13 @@
+{
+  "Citrus_Canker_Diseases_Leaf_Orange": "Plant resistant varieties (e.g., Valencia, Hamlin), avoid overhead irrigation, apply copper-based sprays (copper hydroxide or copper oxychloride) preventively every 21–28 days during flush periods, prune and destroy infected twigs, disinfect tools with 10% bleach, control leaf miner to reduce entry wounds.",
+  
+  "Citrus_Nutrient_Deficiency_Yellow_Leaf_Orange": "Test soil pH (ideal 6.0–7.5), apply balanced citrus fertilizer (NPK 8-8-8 or 12-4-8) 3–4 times per year, use micronutrient foliar sprays (containing zinc, manganese, iron) every 4–6 weeks during active growth, maintain proper irrigation to avoid root stress.",
+  
+  "Healthy_Leaf_Orange": "Plant is healthy. Continue good practices: balanced fertilization, regular pruning, copper sprays during new flushes, and monitoring for early signs of pests/diseases.",
+  
+  "Multiple_Diseases_Leaf_Orange": "Improve tree vigor with proper nutrition and irrigation, apply preventive copper + mancozeb sprays every 21 days during rainy season, remove and burn severely affected leaves/branches, control Asian citrus psyllid (vector of HLB), maintain orchard sanitation.",
+  
+  "Orange Haunglongbing Citrus greening": "No cure exists. Remove and destroy infected trees immediately to prevent spread, control Asian citrus psyllid with imidacloprid or foliar insecticides, plant only certified HLB-free nursery stock, use reflective mulches and kaolin clay as repellents, monitor regularly with PCR testing if possible.",
+  
+  "Young_Healthy_Leaf_Orange": "Young leaves are healthy. Protect new flushes with preventive copper sprays, avoid excessive nitrogen, ensure good drainage, and continue regular scouting for early pest/disease detection."
+}

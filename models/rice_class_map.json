@@ -1,0 +1,10 @@
+{
+  "Bacterial leaf blight in rice leaf": 0,
+  "Brown spot in rice leaf": 1,
+  "Leaf smut in rice leaf": 2,
+  "Rice Brown_Spot": 3,
+  "Rice Healthy": 4,
+  "Rice Leaf_Blast": 5,
+  "Rice Neck_Blast": 6,
+  "Sogatella rice": 7
+}

@@ -1,0 +1,7 @@
+{
+  "Cassava bacterial_blight": 0,
+  "Cassava brown_streak_disease": 1,
+  "Cassava green_mottle": 2,
+  "Cassava healthy": 3,
+  "Cassava mosaic_disease": 4
+}

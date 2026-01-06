@@ -1,0 +1,14 @@
+{
+  "Tea algal leaf": 0,
+  "Tea anthracnose": 1,
+  "Tea bird eye spot": 2,
+  "Tea brown blight": 3,
+  "Tea healthy": 4,
+  "Tea red leaf spot": 5,
+  "algal leaf in tea": 6,
+  "anthracnose in tea": 7,
+  "bird eye spot in tea": 8,
+  "brown blight in tea": 9,
+  "healthy tea leaf": 10,
+  "red leaf spot in tea": 11
+}
