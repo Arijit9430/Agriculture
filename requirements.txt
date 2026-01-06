@@ -1,9 +1,5 @@
-fastapi 
-uvicorn 
-python-multipart 
 tensorflow 
 pillow 
-jinja2
 gradio
 numpy
 deep-translator
