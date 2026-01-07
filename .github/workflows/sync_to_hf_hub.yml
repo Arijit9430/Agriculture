@@ -1,4 +1,5 @@
 name: Sync to Hugging Face Hub
+
 on:
   push:
     branches: [main]
@@ -20,9 +21,11 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install Hugging Face Hub with Xet
+      - name: Install Hugging Face CLI with Xet
         run: |
-          pip install --upgrade huggingface_hub[xet]
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade huggingface_hub[xet]
+          which huggingface-cli
 
       - name: Login to Hugging Face
         run: |
