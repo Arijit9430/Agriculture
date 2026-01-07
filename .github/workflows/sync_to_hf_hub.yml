@@ -27,12 +27,14 @@ jobs:
           python -m pip install huggingface_hub hf-xet
 
       - name: Login to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_API_TOKEN }}
         run: |
-          python -m huggingface_hub.cli login --token ${{ secrets.HF_API_TOKEN }}
+          huggingface-cli login --token $HF_TOKEN
 
       - name: Initialize Xet
         run: |
-          python -m huggingface_hub.cli xet init
+          huggingface-cli xet init
 
       - name: Push to Hugging Face Space
         run: |
