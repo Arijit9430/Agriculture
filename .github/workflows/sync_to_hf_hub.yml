@@ -21,19 +21,18 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install Hugging Face CLI with Xet
+      - name: Install Hugging Face Hub + Xet
         run: |
           python -m pip install --upgrade pip
-          python -m pip install --upgrade huggingface_hub[xet]
-          which huggingface-cli
+          python -m pip install huggingface_hub hf-xet
 
       - name: Login to Hugging Face
         run: |
-          huggingface-cli login --token ${{ secrets.HF_API_TOKEN }}
+          python -m huggingface_hub.cli login --token ${{ secrets.HF_API_TOKEN }}
 
       - name: Initialize Xet
         run: |
-          huggingface-cli xet init
+          python -m huggingface_hub.cli xet init
 
       - name: Push to Hugging Face Space
         run: |
